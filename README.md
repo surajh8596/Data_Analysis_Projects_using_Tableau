@@ -3,3 +3,4 @@
 
 1. Hospitality Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/HospitalityDashboard_16691925448720/HospitalityDashboard
 2. Call Center Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/CallCenterDashboard_16692857866300/CallCenterDashboard
+3. Amazon Sales India Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/AmazonSalesIndia_16930614165030/AmazonSalesDashboard
