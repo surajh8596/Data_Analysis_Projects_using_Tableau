@@ -6,7 +6,7 @@
 3. Amazon Sales India Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/AmazonSalesIndia_16930614165030/AmazonSalesDashboard
 4. Terrorist attack Hotspot Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/TerroristHostspotDetectionDashboard/Dashboard
 5. Employeebility Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/EmployabilityDashboard/EmployabilityDashboard
-6. Tata Project Demand: https://public.tableau.com/app/profile/suraj.honkamble/viz/TATAProductDemand/4
+6. Tata Product Demand: https://public.tableau.com/app/profile/suraj.honkamble/viz/TATAProductDemand/4
 7. Sprocket Center Australia Customer Target Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/SprocketCentralAustraliaCustomerTargetDashboard/TransactionDashboard
 8. Social Progress Index Analysis: https://public.tableau.com/app/profile/suraj.honkamble/viz/SocialProgressIndexAnalysisDashboard/SPIDashboard
 9. Retail Transaction Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/RetailTransactionDashboard_16698899043450/RetailTransactionDashboard
