@@ -14,3 +14,4 @@
 11. Hospital EMergency Room Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/HospitalEmergencyRoomDashboard_16693791352140/HospitalDashboard
 12. Netflix Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/NetflixDashboard_16691034312100/NetflixDashboard
 13. Helpdesk Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/HelpdeskDashboard_16693601779880/HelpDeskDashboard
+14. Global Super Store Dashboard: https://public.tableau.com/app/profile/suraj.honkamble/viz/GlobalSuperStoreDashboard_16933809165680/GlobalSuperStoreProfitDashboard
